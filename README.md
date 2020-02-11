@@ -1,2 +1,2 @@
-# data
-data_sigir_2020
+# Citation-networks dataset for graph-based semi-supervised learning
+Citeseer, Cora, Pubmed, MS-Academic
